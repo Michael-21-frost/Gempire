@@ -417,7 +417,7 @@ color:green;
   margin-bottom: 25px;
 }
 .contact-text{
-  font-size: 25px;
+  font-size: 30px;
 }
 .btn{
   display: inline-block;
@@ -477,19 +477,16 @@ footer ul li a {
   text-decoration: none;
   transition: all 0.5s;
   font-size: 17px;
-  text-decoration: none;
 }
 
 footer ul li a:hover {
   color: green;
-  text-decoration: none;
   background-color: white;
 }
 
 footer ul li a:active {
   color: green;
   background-color: white;
-  text-decoration: none;
 }
 
 footer p {
